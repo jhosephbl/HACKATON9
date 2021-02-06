@@ -2,7 +2,7 @@
 // su edad en las próximas elecciones
 
 
-const edadActual = parseInt(prompt('ingresa tu anio de nacimiento'));
+const edadActual = parseInt(prompt('ingresa tu edad actual'));
 
 const edadMin = 18;
 const edadMax = 90;
